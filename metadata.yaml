@@ -1,11 +1,16 @@
 _repo: Through-Bolshevik-Russia_69486
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69486-h/images/cover.jpg
 creator:
   author:
     agent_name: Snowden, Ethel (Mrs. Philip)
     gutenberg_agent_id: '55287'
     url: http://www.gutenberg.org/2009/agents/55287
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69486#Through-Bolshevik-Russia
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69486'
